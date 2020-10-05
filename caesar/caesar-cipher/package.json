@@ -1,0 +1,22 @@
+{
+  "name": "caesar-cipher",
+  "version": "1.0.0",
+  "description": "caesar-cipher-cli",
+  "main": "CS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pop-rigun/Caesar-CLI/"
+  },
+  "author": "https://github.com/Pop-rigun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pop-rigun/Caesar-CLI/"
+  },
+  "homepage": "https://github.com/Pop-rigun",
+  "dependencies": {
+    "commander": "^6.1.0"
+  }
+}
